@@ -1,3 +1,7 @@
+# AxewBoTX Social Profiles
+
+This repository contains the source code for the website that provides links to all social profiles and accounts of AxewBoTX. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
