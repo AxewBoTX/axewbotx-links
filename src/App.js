@@ -26,7 +26,7 @@ function App() {
       borderRadius={'full'}
       /></Center>
       <ul className='social-list'>
-      <li><SocialButton buttonText="YouTube" colorscheme="red" icon={<FaYoutube/>} redirecter={() =>{window.open("https://www.youtube.com/channel/UCrs-_MTVpZB3hAcMu3PCW2w","_blank")}}/></li>
+      <li><SocialButton buttonText="YouTube" colorscheme="red" icon={<FaYoutube/>} redirecter={() =>{window.open("https://www.youtube.com/@AxewBoTX","_blank")}}/></li>
       <li><SocialButton buttonText="Twitter" colorscheme="twitter" icon={<FaTwitter/>} redirecter={() =>{window.open("https://twitter.com/AxewBoTX","_blank")}}/></li>
       <li><SocialButton buttonText="Discord" colorscheme="facebook" icon={<FaDiscord/>} redirecter={() =>{window.open("https://discord.com/invite/pTzFSvCYp2","_blank")}}/></li>
       <li><SocialButton buttonText="Twitch" colorscheme="purple" icon={<FaTwitch/>} redirecter={() =>{window.open("https://www.twitch.tv/axewbotx","_blank")}}/></li>
